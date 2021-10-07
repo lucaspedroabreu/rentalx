@@ -1,7 +1,0 @@
-
-
-class Specification {
-
-}
-
-export { Specification }
